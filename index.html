@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel = "stylesheet" type = "text/css" href = "style.css">
+		<link rel = "stylesheet" type = "text/css" href = "main.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<script src = "https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-		<title>Review Jeopardy</title>
+		<title>Review</title>
 		<meta charset = "UTF-8">
   		<meta name = "description" content = "Chem Jeopardy">
   		<meta name = "keywords" content = "HTML,CSS,XML,JavaScript">
@@ -12,8 +12,230 @@
   		<meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
 	</head>
 	<body> 
-		<h1>Testing</h1>
-		<script type = "text/javascript">
+		<div class="headerContainer">
+			<h1 id="pageHeader">Chem Review</h1>
+		</div>
+		<table id="unitHeaders">
+			<tr>
+				<td id="modalBox" onclick="modalOpenBasics()">
+					<p id="unitStuff">Basics</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenAtom()">
+					<p id="unitStuff">The Atom</p>
+					<div class="imgContainer">
+						<img src="atom.jpg">
+					</div>
+				</td>
+				<td id="modalBox" onclick="modalOpenModern()">
+					<p id="unitStuff">Modern Atomic Theory</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenForm()">
+					<p id="unitStuff">Formulas and Reactions</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenBond()">
+					<p id="unitStuff">Chemical Bonding</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenMole()">
+					<p id="unitStuff">The Mole and Stoichimetry</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenGas()">
+					<p id="unitStuff">Gases</p>
+				</td>
+			</tr>
+			<tr>
+				<td id="modalBox" onclick="modalOpenSL()">
+					<p id="unitStuff">Solids and Liquids</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenSolution()">
+					<p id="unitStuff">Solutions</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenRD()">
+					<p id="unitStuff">Reaction Dynamics</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenRedox()">
+					<p id="unitStuff">Redox</p>
+				</td>
+				<td id="modalBox" onclick="modalOpenAB()">
+					<p id="unitStuff">Acids and Bases</p>
+				</td>
+				<!-- Do under development picture for organiz and nuclear -->
+				<td>
+					<p id="unitStuff">Organic</p>
+				</td>
+				<td>
+					<p id="unitStuff">Nuclear</p>
+				</td>
+			</tr>
+		</table>
+		<div id="myModal" class="modal">
+	 	 	<div class="modal-content">
+	    		<div class="modal-header">
+	      			<span class="close">&times;</span>
+	      			<h2 id="headerChange">Header</h2>
+	    		</div>
+		    	<div class="modal-body">
+		      		<p>Text</p>
+		      		<p>More Text</p>
+		    	</div>
+		    	<div class="next">
+		    		<button class="next" onclick="changeQuestion()">Next</button>
+		    	</div>
+	  		</div>
+		</div>
+		<script type = "text/javascript">  
+			var modal = document.getElementById('myModal');
+			var closeBtn = document.querySelector(".close");
+
+			var header = document.getElementById("headerChange");
+
+			var questionNumber = 0;
+			var topic = "none";
+
+			function changeQuestion() {
+				console.log("changing question");
+				questionNumber += 1;
+
+				if(questionNumber == 21) {
+					modal.style.display = "none";
+					return;
+				}
+
+				header.innerHTML = topic + ": Question " + questionNumber;
+			}
+
+
+			function modalOpenBasics() { 
+				//change vars
+				topic = "Basics";
+				questionNumber = 0;
+
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("basics");
+			}
+
+			function modalOpenAtom() { 
+				//change vars
+				topic = "The Atom";
+				questionNumber = 0;
+
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("atom");
+			}
+
+			function modalOpenModern() { 
+				//change vars
+				topic = "Modern Atomic Theory";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("modern");
+			}
+
+			function modalOpenForm() { 
+				//change vars
+				topic = "Formulas and Reactions";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("formula and reaction");
+			}
+
+			function modalOpenBond() { 
+				//change vars
+				topic = "Chemical Bonding";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("bonding");
+			}
+
+			function modalOpenMole() { 
+				//change vars
+				topic = "The Mole and Stoichimetry";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("mole and stoich");
+			}
+
+			function modalOpenGas() { 
+				//change vars
+				topic = "Gases";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("gases");
+			}
+
+			function modalOpenSL() { 
+				//change vars
+				topic = "Solids and Liquids";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("solids and liquids");
+			}
+
+			function modalOpenSolution() { 
+				//change vars
+				topic = "Solutions";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("solutions");
+			}
+
+			function modalOpenRD() { 
+				//change vars
+				topic = "Reactoin Dynamics";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("reaction dynamics");
+			}
+
+			function modalOpenRedox() { 
+				//change vars
+				topic = "Redox";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("redox");
+			}
+
+			function modalOpenAB() { 
+				//change vars
+				topic = "Acids and Bases";
+				questionNumber = 0;
+				
+				changeQuestion();
+				modal.style.display = "block";
+				console.log("acids and bases");
+			}
+
+
+
+			closeBtn.onclick = function() {
+				//alert("should close");
+				modal.style.display = "none";
+			}
+
+			window.onclick = function(event) {
+				if (event.target == modal) {
+			    	modal.style.display = "none";
+				}
+			}
 		</script>
 	</body>
 </html>
