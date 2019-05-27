@@ -19,51 +19,90 @@
 			<tr>
 				<td id="modalBox" onclick="modalOpenBasics()">
 					<p id="unitStuff">Basics</p>
+					<div class="imgContainer">
+						<img src="basics.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenAtom()">
 					<p id="unitStuff">The Atom</p>
 					<div class="imgContainer">
-						<img src="atom.jpg">
+						<img src="atom.jpg" id="actualImg">
 					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenModern()">
 					<p id="unitStuff">Modern Atomic Theory</p>
+					<div class="imgContainer">
+						<img src="modernAtomicTheory.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenForm()">
 					<p id="unitStuff">Formulas and Reactions</p>
+					<div class="imgContainer">
+						<img src="reactions.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenBond()">
 					<p id="unitStuff">Chemical Bonding</p>
+					<div class="imgContainer">
+						<img src="chemicalBonding.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenMole()">
 					<p id="unitStuff">The Mole and Stoichimetry</p>
+					<div class="imgContainer">
+						<img src="mole.jpg" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenGas()">
 					<p id="unitStuff">Gases</p>
+					<div class="imgContainer">
+						<img src="gases.png" id="actualImg">
+					</div>
 				</td>
 			</tr>
 			<tr>
 				<td id="modalBox" onclick="modalOpenSL()">
 					<p id="unitStuff">Solids and Liquids</p>
+					<div class="imgContainer">
+						<img src="solidsAndLiquids.jpg" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenSolution()">
 					<p id="unitStuff">Solutions</p>
+					<div class="imgContainer">
+						<img src="solutions.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenRD()">
 					<p id="unitStuff">Reaction Dynamics</p>
+					<div class="imgContainer">
+						<img src="reactionDynamics.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenRedox()">
 					<p id="unitStuff">Redox</p>
+					<div class="imgContainer">
+						<img src="redox.png" id="actualImg">
+					</div>
 				</td>
 				<td id="modalBox" onclick="modalOpenAB()">
 					<p id="unitStuff">Acids and Bases</p>
+					<div class="imgContainer">
+						<img src="acidsAndBases.jpg" id="actualImg">
+					</div>
 				</td>
 				<!-- Do under development picture for organiz and nuclear -->
 				<td>
 					<p id="unitStuff">Organic</p>
+					<div class="imgContainer">
+						<img src="underDev.png" id="actualImg">
+					</div>
 				</td>
 				<td>
 					<p id="unitStuff">Nuclear</p>
+					<div class="imgContainer">
+						<img src="underDev.png" id="actualImg">
+					</div>
 				</td>
 			</tr>
 		</table>
@@ -310,7 +349,7 @@
 					var questionInfo = unit4Questions[questionNumber - 1];
 				} else if (unitSelected == 5) {
 					var questionInfo = unit5Questions[questionNumber - 1];
-				} else if (unitSelected == 6) {
+				} else if (unitSelected == 6) {	
 					var questionInfo = unit6Questions[questionNumber - 1];
 				} else if (unitSelected == 7) {
 					var questionInfo = unit7Questions[questionNumber - 1];
