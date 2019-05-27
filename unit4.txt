@@ -1,0 +1,105 @@
+Which of the following compounds is correctly named?
+Mg(OH)2 → Magnesium (II) Hydroxide
+PbCO3 → Lead (IV) Carbonate
+FeCl3 → Lead (II) Chloride
+CaCrO4 → Calcium Chromate
+4
+The first answer choice is incorrect because a Roman Numeral is not needed. The second is incorrect because the Roman Numeral should be II, not IV. Finally, the third is incorrect because the Roman Numeral should be III, not II.
+What is the formula of Ammonium Nitrate?
+NH3NO2
+(NH3)3N
+NH4NO2
+(NH4)3N
+3
+The correct answer is NH4NO2, since Ammonium is NH4(+1) and Nitrate is NO2(-1), which works out nicely in a formula, without a need to balance.
+Write the chemical equation of a combustion reaction of propane (C3H8)
+C3H8 + 5O2 → 3CO2 + 4H2O
+C3H8 + 5O2 → 3CO2 + 3H2O
+C3H8 + 5O2 → 2CO2 + 4H2O
+C3H8 + 4O2 → 3CO2 + 4H2O
+1
+Balancing the equation on both sides will yield that C3H8 + 5O2 → 3CO2 + 4H2O is the correct answer. 
+The chemical formula of a certain substance is MgX. What is the formula when Iron (III) and X are combined to make a substance?
+FeX
+FeX3
+Fe2X
+Fe2X3
+4
+Since the charge for X is -2 and the charge for Iron (III) is +3, to balance it, we will need two of Iron(III) per molecule and three of X.
+If the following double replacement reaction was balanced, what would be the sum of its coefficients? Ag3P + FeCl2 → AgCl + Fe3P2
+10
+11
+12
+13
+3
+The answer is 12. This reaction is balanced as follows: 2Ag3P + 3FeCl2 → 6AgCl + Fe3P2.
+What is conserved in a chemical reaction?
+Mass
+Energy
+Charge
+All of the above.
+4
+Everything is conserved in a chemical reaction.
+There are three reactions listed below. Name which type of reactions each of the three are in order. 2Ag + Cl2 → 2AgCl, 2AgCl → 2Ag + Cl2, AgNO3 + NaCl → AgCl + NaNO3
+Synthesis, Decomposition, Double Replacement
+Decomposition, Single Replacement, Synthesis
+Synthesis, Decomposition, Single Replacement
+Decomposition, Double Replacement, Synthesis
+1
+This problem relies on knowledge of the basic types of reactions.
+What is the name of Pb(SO3)2?
+Lead Sulfide
+Lead (IV) Sulfide
+Lead Sulfate
+Lead (IV) Sulfate
+4
+Note that SO3 is Sulfate. Then, utilize the correct Roman Numeral to result in the answer of Lead (IV) Sulfate.
+Which of the following is NOT evidence for a chemical reaction?
+Formation of a Gas
+Formation of a Precipitate
+Color/Ph Change
+Cracking of the substance
+4
+Cracking of a substance is a physical change, making it poor evidence to explain that something is a chemical reaction.
+Name C3N4.
+Tricarbon Pentanitride
+Tricarbon Tetranitride
+Carbon Nitride
+Tetracarbon Tetranitride.
+2
+The answer is Tricarbon Tetranitride. This is due to the fact that this is a covalent molecule, which requires prefixes to properly name. Thus, we find the prefixes for three and four, which are tri and tetra respectively, and name the compound.
+Using your knowledge of Chemistry, predict the products of the reaction. CaBr2 + Sc →  ?
+ScBr2, Ca
+Ca3Sc2, Br
+ScBr3, Ca
+None of the above answer choices are correct.
+3
+This is a single replacement reaction. We swap the two metals in this reaction and then proceed to balance charges, resulting in the products ScBr3, Ca.
+What type of reaction is the reaction below? 3CaBr2 + 2Sc →  2ScBr3 + 3Ca
+Synthesis
+Decomposition
+Single Replacement
+Double Replacement
+3
+This is clearly a single replacement reaction. It follows the AB + C → CB + A format directly.
+Which of the following is not a chemical change?
+Food rotting.
+A Precipitate forming in aqueous solution.
+Rust forming on the surface of a metal.
+Water evaporating.
+4
+Water evaporating is simply a change in temperature, not a chemical change to the water itself. Note that physical changes are usually reversible, whereas chemical changes are not. This change is very easily reversible.
+When metalloids bond with nonmetals, they bond …
+In metallic bonds.
+In covalent bonds.
+In ionic bonds.
+Metalloids do not bond.
+2
+Just a quick fact. This is mostly due to the fact that the electronegativity difference isn’t great enough for metalloids to bond ionically with nonmetals.
+What is the sum of the coefficients of the products in the combustion reaction of butane (C4H10)?
+16
+18
+20
+22
+2
+The combustion reaction equation is 2C4H10 + 13O2 → 8CO2 + 10H2O. Thus, the sum of the coefficients on the side of the products is 8 + 10 = 18.

@@ -138,7 +138,9 @@
 				["Question 20 test", "20 - 1", "20 - 2", "20 - 3", "20 - 4", "4", "exp20"],
 			];
 
-			let unit3Questions = [	
+			let unit1Questions = [[]];
+
+			let unit2Questions = [	
 			['How many neutrons are there in an atom of Phosphorus with mass number 32?', '15', '16', '17', '18', '3', 'We know that the number of neutrons is the mass number - the atomic number (number of protons). Since Phosphorus has an atomic number of 15, the answer is 32 - 15 = 17.'],
 				['In Ernest Rutherford’s famous gold foil experiment, which of the following conclusions was made?', 'Electrons exist.', 'The Atom is very small.', 'The Atom is made up of mostly empty space.', 'The Atom has a negative core.', '3', 'In this experiment, alpha particles were sent through extremely thin gold foil. What Rutherford observed was that most of the particles passed through without interruption. The fact that most of the particles just passed through the gold signified to Rutherford that most of the atom is empty space.'],
 				['Which of the following is false about the atom?', 'Most of its mass comes from its nucleus.', 'Most if it is empty space.', 'The nucleus is positively charged.', 'Alpha particles will not pass through an atom.', '4', 'The atom allows alpha particles to pass through it, as seen in the famous Rutherford gold foil experiment.'],
@@ -154,10 +156,126 @@
 				['Which of the element lists contains an alkali metal, an transition metal, and a noble gas?', 'Sodium, Copper, Krypton', 'Sodium, Zinc, Copper', 'Magnesium, Hydrogen, Titanium', 'Potassium, Zinc, Sulfur', '1', 'Sodium, Copper, and Krypton are the only three that satisfy these conditions.'],
 				['In the periodic table, which of the following groups is the most metallic in character?', '1', '2', '17', '18', '1', 'The answer is group 1, the alkali metals. Note that the closer we get to the left of the periodic table, the more metallic the groups are.'],
 				['A sample of an element X has 90.9% with atomic mass 12.0 and 9.10% with atomic mass 14.0. Calculate the average atomic mass of this element.', '12.2', '1220', '12', '12.18', '1', 'Our calculations are as follows. We multiply the percentages to their respective atomic masses and then add them together. Then, we divide by 100. To three significant figures, this should yield 12.2'],
+			]; 
+
+			let unit3Questions = [	
+				['Photons act as a … ', 'Wave', 'Particle', 'Both', 'Neither', '3', 'Photons act as both a wave and a particle in a famous theory called wave-particle duality. Photons, which are released when electrons fall from higher to lower energy levels, have properties that are like waves and particles, which creates this dual 	definition. It is important to note that electrons also act as waves and particles. '],
+				['Which of the following is an excited electron configuration for an atom?', '2-8-2', '2-3-1', '2-8-3', '2-7', '2', '2-3-1 is an excited electron configuration. Since this particular atom has 6 electrons, in the ground state, it would be 2-4, since the second principal energy level must fill with 8 electrons before it can proceed to fill the third energy level. The fact that the electron configuration is 2-3-1 means that the atom is excited.'],
+				['What are the four letters which represent the four different types of atomic orbitals?', 'ABCD', 'SPDF', 'SPFD', 'SDPF', '2', 'The answer is SPDF. Note that the S, P, D, F orbitals hold 2, 6, 10, 14 electrons respectively.'],
+				['The Bohr model of the atom was the first we attempted to use to describe the atom. How did this model theorize that electrons moved?', 'Electrons move in orbitals, which are high probability regions for electrons.', 'Electrons move in circles, which are high probability region for electrons.', 'Electrons move in orbits, which are concentric circular paths.', 'Electrons move in circles, which are concentric circular paths.', '3', 'The answer is “Electrons move in orbits, which are concentric circular paths”. The Bohr model believed that there were concentric orbits. However, this theory seemed only to work for Hydrogen, and was later disproved.'],
+				['Energy in the form of photons is released when …', 'Electrons move down energy levels.', 'Electrons move up energy levels.', 'Electrons continuously orbit their energy levels.', 'A chemical reaction occurs.', '1', 'The answer is “Electrons move down energy levels”. Photons are released when energy moves down energy levels, creating the characteristic bright line spectrum.'],
+				['What is the Noble Gas core electron configuration for an atom of Rb (Rubidium)?', '[Ar]5s1', '[Ar]5s2', '[Kr]5s1', '[Kr]5s2', '3', 'The noble gas electron configuration allows us to locate the nearest noble gas and simply “add” electrons in the correct format as needed. In this case, Rubidium is only one electron away from Krypton, a noble gas. Since the extra electron is “5s1” we add that to the end of [Kr] and we are done. The answer is “[Kr]5s1”.'],
+				['In atoms, the bright line spectra illustrates …', 'Identical energy levels of electrons by illustrating the different colors that are given off.', 'Identical energy levels of electrons by illustrating the identical colors that are given off.', 'Different energy levels of electrons by illustrating the different colors that are given off.', 'Different energy levels of electrons by illustrating the identical colors that are given off.', '3', 'The answer is “Different energy levels of electrons by illustrating the different colors that are given off.” Each atom can only give off a certain light, creating the characteristic bright line spectrum that we know of.'],
+				['Which Reference Table can solve almost every periodic trend question?', 'Periodic Table of the Elements', 'Table R', 'Table S', 'Table T', '3', 'The answer is Table S. Whenever one has any sort of question on periodic trends and can utilize the Reference Tables, one should consult Table S to ensure that they get the question correct. However, it is still advised that one should understand the motivations behind the periodic trends.'],
+				['Do not use the Chemistry Reference Tables! Atomic radius … ', 'Increases across a period and increases down a group.', 'Increases across a period and decreases down a group.', 'Decreases across a period and increases down a group.', 'Decreases across a period and decreases down a group.', '3', 'The correct answer is “Decreases across a period and increases down a group.” Across a period, the increasing nuclear charge outweighs the somewhat increasing distance of valence electrons, pulling the electrons closer to the nucleus. This creates a decreasing atomic radius. Down a group however, the distance of the valence electrons far outweighs the increasing nuclear charge, creating an increasing atomic radius.'],
+				['Do not use the Chemistry Reference Tables! Electronegativity ...', 'Increases across a period and increases down a group.', 'Increases across a period and decreases down a group.', 'Decreases across a period and increases down a group.', 'Decreases across a period and decreases down a group.', '2', 'The correct answer is “Increase across a period and decrease down a group.” The definition for electronegativity is the attraction for electrons. Thus, across a period, the increasing nuclear charge creates a greater electronegativity. As we go down a group, the electronegativity decreases because the distance of the outermost electrons is now so far away from the nucleus. This distance creates weaker attractions.'],
+				['How many valence electrons does an atom of sulfur have?', '16', '6', '4', '2', '2', 'The correct answer is 6. Sulfur has a completely filled 3s orbital and then has 4 electrons in the 3p section. Note that 16 is the total number of electrons in a sulfur atom, not the number of valence electrons, making it incorrect.'],
+				['How many valence electrons does an ion of Aluminum have?', '3', '5', '7', '8', '4', 'When ions are formed, a stable octet is sought for in order to achieve stability. Thus, Aluminum loses 3 electrons in an effort to gain the stability of a noble gas, Neon. Thus, since all noble gases have 8 valence electrons, and since the Aluminum ion lost electrons to achieve the stability of a noble gas, an ion of Aluminum will have 8 valence electrons.'],
+				['What element is the most reactive nonmetal?', 'Chlorine', 'Oxygen', 'Sulfur', 'Fluorine', '4', 'The answer is Fluorine. This is due to the fact that it has the highest electronegativity, making it the most reactive.'],
+				['Particles are isoelectronic if they have the same number of electrons. Out of the following particles, which 3 are isoelectronic? { Al(+3), Na(+1), F(-1), B(+3) }', 'F(-1), B(+3) , Al(+3)', 'Al(+3), Na(+1), B(+3)', 'Na(+1), F(-1), B(+3)', 'Al(+3), Na(+1), F(-1)', '4', 'The correct answer is Al(+3), Na(+1), F(-1), which all have 10 electrons.'],
+				['We have a list of isoelectronic ions: O(-2), F(-1), Na(+1), Mg(+2). How are these ordered when considering size from smallest to largest?', 'O(-2), F(-1), Mg(+2), Na(+1)', 'O(-2), F(-1), Na(+1), Mg(+2)', 'Mg(+2), Na(+1), O(-2), F(-1)', 'Mg(+2), Na(+1), F(-1),  O(-2)', '4', 'Since all of these ions have the same number of electrons, we must look at which have the greatest nuclear charge to figure out which one will be smallest. Thus, we simply place them in order of reverse strength in nuclear charge. Greater nuclear charge will pull the electrons closer to the nucleus, creating a smaller ion.']
 			];
 
+			let unit4Questions = [	
+				['Which of the following compounds is correctly named?', 'Mg(OH)2 → Magnesium (II) Hydroxide', 'PbCO3 → Lead (IV) Carbonate', 'FeCl3 → Lead (II) Chloride', 'CaCrO4 → Calcium Chromate', '4', 'The first answer choice is incorrect because a Roman Numeral is not needed. The second is incorrect because the Roman Numeral should be II, not IV. Finally, the third is incorrect because the Roman Numeral should be III, not II.'],
+				['What is the formula of Ammonium Nitrate?', 'NH3NO2', '(NH3)3N', 'NH4NO2', '(NH4)3N', '3', 'The correct answer is NH4NO2, since Ammonium is NH4(+1) and Nitrate is NO2(-1), which works out nicely in a formula, without a need to balance.'],
+				['Write the chemical equation of a combustion reaction of propane (C3H8)', 'C3H8 + 5O2 → 3CO2 + 4H2O', 'C3H8 + 5O2 → 3CO2 + 3H2O', 'C3H8 + 5O2 → 2CO2 + 4H2O', 'C3H8 + 4O2 → 3CO2 + 4H2O', '1', 'Balancing the equation on both sides will yield that C3H8 + 5O2 → 3CO2 + 4H2O is the correct answer. '],
+				['The chemical formula of a certain substance is MgX. What is the formula when Iron (III) and X are combined to make a substance?', 'FeX', 'FeX3', 'Fe2X', 'Fe2X3', '4', 'Since the charge for X is -2 and the charge for Iron (III) is +3, to balance it, we will need two of Iron(III) per molecule and three of X.'],
+				['If the following double replacement reaction was balanced, what would be the sum of its coefficients? Ag3P + FeCl2 → AgCl + Fe3P2', '10', '11', '12', '13', '3', 'The answer is 12. This reaction is balanced as follows: 2Ag3P + 3FeCl2 → 6AgCl + Fe3P2.'],
+				['What is conserved in a chemical reaction?', 'Mass', 'Energy', 'Charge', 'All of the above.', '4', 'Everything is conserved in a chemical reaction.'],
+				['There are three reactions listed below. Name which type of reactions each of the three are in order. 2Ag + Cl2 → 2AgCl, 2AgCl → 2Ag + Cl2, AgNO3 + NaCl → AgCl + NaNO3', 'Synthesis, Decomposition, Double Replacement', 'Decomposition, Single Replacement, Synthesis', 'Synthesis, Decomposition, Single Replacement', 'Decomposition, Double Replacement, Synthesis', '1', 'This problem relies on knowledge of the basic types of reactions.'],
+				['What is the name of Pb(SO3)2?', 'Lead Sulfide', 'Lead (IV) Sulfide', 'Lead Sulfate', 'Lead (IV) Sulfate', '4', 'Note that SO3 is Sulfate. Then, utilize the correct Roman Numeral to result in the answer of Lead (IV) Sulfate.'],
+				['Which of the following is NOT evidence for a chemical reaction?', 'Formation of a Gas', 'Formation of a Precipitate', 'Color/Ph Change', 'Cracking of the substance', '4', 'Cracking of a substance is a physical change, making it poor evidence to explain that something is a chemical reaction.'],
+				['Name C3N4.', 'Tricarbon Pentanitride', 'Tricarbon Tetranitride', 'Carbon Nitride', 'Tetracarbon Tetranitride.', '2', 'The answer is Tricarbon Tetranitride. This is due to the fact that this is a covalent molecule, which requires prefixes to properly name. Thus, we find the prefixes for three and four, which are tri and tetra respectively, and name the compound.'],
+				['Using your knowledge of Chemistry, predict the products of the reaction. CaBr2 + Sc →  ?', 'ScBr2, Ca', 'Ca3Sc2, Br', 'ScBr3, Ca', 'None of the above answer choices are correct.', '3', 'This is a single replacement reaction. We swap the two metals in this reaction and then proceed to balance charges, resulting in the products ScBr3, Ca.'],
+				['What type of reaction is the reaction below? 3CaBr2 + 2Sc →  2ScBr3 + 3Ca', 'Synthesis', 'Decomposition', 'Single Replacement', 'Double Replacement', '3', 'This is clearly a single replacement reaction. It follows the AB + C → CB + A format directly.'],
+				['Which of the following is not a chemical change?', 'Food rotting.', 'A Precipitate forming in aqueous solution.', 'Rust forming on the surface of a metal.', 'Water evaporating.', '4', 'Water evaporating is simply a change in temperature, not a chemical change to the water itself. Note that physical changes are usually reversible, whereas chemical changes are not. This change is very easily reversible.'],
+				['When metalloids bond with nonmetals, they bond …', 'In metallic bonds.', 'In covalent bonds.', 'In ionic bonds.', 'Metalloids do not bond.', '2', 'Just a quick fact. This is mostly due to the fact that the electronegativity difference isn’t great enough for metalloids to bond ionically with nonmetals.'],
+				['What is the sum of the coefficients of the products in the combustion reaction of butane (C4H10)?', '16', '18', '20', '22', '2', 'The combustion reaction equation is 2C4H10 + 13O2 → 8CO2 + 10H2O. Thus, the sum of the coefficients on the side of the products is 8 + 10 = 18.']
+			];
+			
+			let unit5Questions = [	
+				['Polar Molecules have … and are …', 'Nonpolar bonds, Symmetrical', 'Nonpolar bonds, Asymmetrical', 'Polar bonds, Symmetrical', 'Polar bonds, Asymmetrical', '4', 'Symmetry kills polarity! The prerequisites for having a polar molecule is that they have polar bonds and that they are asymmetrical.'],
+				['Due to the “sea of electrons”, metals are ', 'Able to Conduct Electricity', 'Ductile', 'Malleable', 'Lustrous', '1', 'The sea of electrons creates metals that are able to conduct electricity. The mobile electrons allow the metal to have a current pass through it.'],
+				['Ionic bonds are between nonmetals and metals. Covalent bonds are between nonmetals. However, the difference in _____ being greater than 1.7 causes a molecule to be considered ionic.', 'Electronegativity', 'Atomic Radius', 'First Ionization Energy', 'Melting Point', '1', 'This is a definition question. Electronegativity difference determines the attraction for electrons between two different substances. If one substance has a significantly greater attraction for electrons, this will result in the transfer of electrons, or ionic bonding. The cutoff for this phenomenon happens to be an electronegativity difference of 1.7.'],
+				['Which of the following is not a property of ionic compounds?', 'Solubility in water', 'Forming lattice structures', 'Conduct electricity in aqueous solutions', 'Malleable', '4', 'The final property is a property of metals, not ionic compounds.'],
+				['Which of the following substances has the greatest ionic character?', 'NaF', 'LiS2', 'CO', 'F2', '1', 'The electronegativity difference is greatest between Na and F, meaning that NaF has the greatest ionic character. Ionic character is the tendency to transfer electrons, which is displayed most prominently in substances with very high electronegativity differences. This means that substances with ionic bonding should have the greatest ionic character.'],
+				['Draw the Lewis Dot structure for CO2. How many lone pairs are on the carbon atom?', '0', '1', '2', '3', '1', 'The correct answer is 0. In carbon dioxide, there are two double bonds to each oxygen to make up for the lack of electrons. If this explanation didn’t help, search up “Carbon Dioxide Lewis Dot Structure”.'],
+				['Draw the Lewis Dot Structure for NH3. What shape is this structure?', 'Tetrahedron', 'Linear', 'Bent', 'Trigonal Pyramidal', '4', 'The Lewis Dot Structure for NH3 has a lone pair on the nitrogen, which makes it trigonal pyramidal, rather than a tetrahedron. It is not trigonal planar due to its lone pair. '],
+				['A type of Intermolecular Forces is called Hydrogen Bonding. Which of the following elements would not be able to perform Hydrogen Bonding?', 'Nitrogen ', 'Oxygen', 'Carbon', 'Fluorine', '3', 'This is something that one must simply memorize. Hydrogen Bonding only applies to NOF. So remember NOF!'],
+				['Compared to Intramolecular Forces, Intermolecular Forces are comparatively …', 'Weak', 'Strong', 'Similar', 'None of the above answers are correct.', '1', 'Intramolecular forces are comparatively much stronger than Intermolecular forces due to the fact that the sharing/transfer of electrons between individual ions/atoms in intramolecular forces. However, in intermolecular forces, items are held together simply with partial charges, which is comparatively much weaker.'],
+				['What type of bond is formed between the oxygen and hydrogen atoms in water?', 'Metallic', 'Nonpolar Covalent', 'Ionic', 'Polar Covalent', '4', 'The electronegativity difference is 1.2, putting it in the range to be a polar covalent bond. '],
+				['Chemical bonds occur due to … ', 'Repulsion between the protons of two nuclei', 'Attractions for the electrons by two nuclei', 'Repulsion from the electrons of two different atoms', 'Attractions from the protons of two different atoms.', '2', 'Chemical bonds are all about the attraction of electrons by different nuclei. The attraction for electrons creates the sharing/transfer that lead to the chemical bonds.'],
+				['Which of the following types of substances do NOT have high melting points?', 'Ionic ', 'Metallic', 'Covalent', 'Other substances', '3', 'Covalent substances tend to have very low melting points as a result of their weaker intermolecular forces. Weaker intermolecular forces leads to a substantially weaker substance, creating low melting and boiling points.'],
+				['Which compounds are electrolytes?', 'Polar Covalent', 'Nonpolar Covalent', 'Metallic', 'Ionic', '4', 'Many ionic compounds dissolve into ions in aqueous solution, allowing them to conduct electricity. This is the hallmark of electrolytes. '],
+				['There are five compounds: H2, CO2, CH4, NCl3, CO.  Which of them are nonpolar?', 'H2, CO2, CH4, NCl3', 'H2, CO2, CH4,', 'CO2, CH4', 'H2', '2', 'Out of these 5 compounds, three of these are nonpolar. H2 is a nonpolar molecule because it’s electronegativity difference is 0. Then, CO2 is linear and CH4 is tetrahedral, both of which are symmetrical shapes. Due to this fact, CO2 and CH4 are also nonpolar. Thus, we have three nonpolar compounds: H2, CO2, CH4.'],
+				['What is the maximum number of bonds carbon can make?', '1', '2', '3', '4', '4', 'Carbon has 4 electrons, and needs four more electrons to make the stable octet. Therefore, to reach the desired 8 electrons, 4 more electrons are needed, or 4 single bonds. An example of this is CH4.']
+			];
+
+			let unit6Questions = [	
+				['Which represents the greatest mass of polonium (Po)?', '1 atom of Po', '1 gram of Po', '1 mole of Po', '200 grams', '3', '1 mole of Po has a molar mass of 209 grams/mole. 1 atom of Po has insignificant mass, and 209 grams is greater than 1 gram and 200 grams.'],
+				['A compound with an empirical formula of NH3 has a molecular mass of 85.0 amu. What is this compound’s molecular formula?', 'NH3', 'N2H6', 'N4H12', 'N5H15', '4', 'The mass of NH3 is 14.0 + 3(1.0) = 17.0. 85 is “five-fold” of NH3, so multiplying by 5 results in N5H15.'],
+				['The coefficients in a balanced chemical equation can represent ', 'Grams and moles, but not molecules', 'Grams and molecules, but not moles', 'Moles and molecules, but not grams', 'Grams, moles, or molecules', '3', 'The coefficients represent moles and molecules. A balanced chemical equation is a ratio in the number of molecules, and since a mole is a unit for molecules, this applies for moles as well. However, this does not apply for grams, as different substances can have different molar masses, causing the coefficients not to be able to be substituted for grams.'],
+				['What is the percent mass of hydrogen in CH4O?', '6.09%', '12.5%', '25%', '3.3%', '2', 'The molar mass of CH4O is 12.0 + 4(1.0) + 16.0 = 32.0 g/mol. The total mass of hydrogen is 4(1.0). Using the formula for % composition, we get 4.0 / 32.0 * 100 = 12.5%.'],
+				['Given the mass of a crucible and lid is 25.0g, mass of crucible, lid, and hydrated salt is 27.4g, and mass of crucible, lid, and anhydrous salt is 26.0g, what is the percent by mass of water in this hydrate.', '1.4%', '5.8%', '10.4%', '58.3%', '4', 'We know the mass of water will be 27.4g - 26.0g = 1.4g. The mass of the hydrate is 27.4g - 25.0g = 2.4g. So the percent water is 1.4g / 2.4g * 100 = 58.3%.'],
+				['There exists  a plastic polymer that is widely used around the world. This plastic polymer can have chains of many different lengths. One chain length is C9440H7552O3776. What is its empirical formula?', 'C5H4O2', 'C6H5O3', 'C6H4O2', 'C10H8O3', '1', 'To find the empirical formula of C9440H7552O3776, we want to find the greatest common divisor of 9440, 7552, and 3776. This happens to be 1888. Dividing each number by 1888, we get, 5, 4, 2, with respect to C, H, and O. So our empirical formula is C5H4O2.'],
+				['Lead can be found in anglesite. The formula for anglesite is PbCl2. Determine the mass in grams of lead in 2kg of anglesite.', '1480', '1490', '1500', '1510', '2', 'The molar mass of anglesite is 207.2g + 2(35.5g) = 278.2g/mol. This would mean there are 2000g / 278.2g/mol = 7.189 moles of anglesite in 2kg. Multiplying 7.189moles * 207.2g/mol = 1490 grams. You could also find percent composition of lead, then multiply by 2000; both result in the same answer.'],
+				['93.00 grams of SnO2 contains how many moles of molecules?', '0.062 moles', '0.314 moles', '0.617 moles', '0.690 moles', '3', 'SnO2 has a molar mass of 150.7 g/mol. Diving 93.00g / 150.7g/mol = 0.617 moles. '],
+				['Why is the mole useful?', 'The mole provides a link between the number of particles and the number of grams', 'It is cute and cuddly, providing comfort to non-moles', 'The mole allows us to convert chemical equations into numero-chemical equations', "The mole is Avogadro's number, or 6.02 * 10^23", '1', 'Moles allow us to convert number of particles to number of grams, because we know the number of grams of 1 mole of most all elements. Don’t be fooled by answer choice d)! This is a true statement, but it doesn’t explain why the mole is useful.'],
+				['Are balanced equations necessary to do stoichiometry? Why or why not?', 'Balanced equations are necessary because mass is conserved in every reaction', 'Balanced equations are necessary, because mass is not conserved in every reaction', 'Balanced equations aren’t necessary because mass is conserved in every reaction', 'Balanced equations aren’t necessary because mass is not conserved in every reaction', '1', 'Balanced equations are necessary for almost everything we do in chemistry. Mass (along with other things, such as energy) are always conserved. Also, because mass is conserved, the equations needs to be balanced so mass can stay the same on both sides of the equation.'],
+				['What is NOT the theoretical yield?', 'The calculated amount of product that will form during a reaction', 'The maximum amount of products that could be formed', 'The minimum amount of products that could be formed', 'The value usually compared with actual yield to calculate percent yield.', '3', 'Theoretical yield is the yield that one calculates through stoichiometry. This is the maximum amount of yield produced, because the calculations are done assuming perfect conditions, and nothing is lost. Theoretical yield is used in the % yield formula. This leaves c), as the what theoretical yield couldn’t be.'],
+				['When doing stoichiometry, … is/are directly created from coefficients in correctly balanced equations.', 'Mass ratios', 'Mole differences', 'Mass differences', 'Mole ratios', '4', 'The coefficients in balanced equations represent that ratio of moles, this allowing one to create mole ratios.'],
+				['Name this hydrate: Na2CO3&#183;10H20', 'Sodium carbonate decahydrate', 'Sodium carbonate hydrate', 'Sodium carbonate tenhydrate', 'Decahydrate sodium carbonate', '1', 'To figure this out, we can first look at Na2CO3. This is sodium carbonate (look on table E). Having water means we need a hydrate, but also a deca- prefix due to the fact that there are 10 H2O’s present.'],
+				['Which is an empirical formula', 'C2H2', 'C2H4', 'CH', 'C4H8', '3', 'Empirical formulas have lowest terms. Only CH has lowest terms subscripts. C2H2 could be reduced to CH. Likewise, C2H4 and C4H8 could be reduced to CH2.'],
+				['Which of the following is NOT always true?', 'The actual yield in a chemical reaction will be equal to or less than the theoretical yield', 'The coefficients in a balanced chemical equation can be used to form mole ratios relating reactants to products.', 'The convert from moles to grams, we divide by the molar mass.', 'Mass is conserved in a chemical reaction', '3', 'To convert from moles to grams, we multiply by the molar mass.']
+			];
+			
+			let unit7Questions = [	
+				['Which of the following is not an assumption of the Kinetic Molecular Theory of Gases?', 'Gas particles are always moving.', 'Collisions between gas particles are elastic.', 'Gases have no forces of attractions.', 'Gases are close together.', '4', 'Gases are actually very far apart relative to their size, which is another assumption of the Kinetic Molecular Theory of Gases. '],
+				['Gases have …', 'Definite Shape and Definite Volume', 'Definite Shape and Indefinite Volume', 'Indefinite Shape and Definite Volume', 'Indefinite Shape and Indefinite Volume', '4', 'Imagine a gas in a room. It’s particles will simply occupy the space of that room, having no definite shape or volume. The gas will continuously expand.'],
+				['Gases behave least like the “ideal gas” when ...', 'Temperature is high and Pressure is high', 'Temperature is high and Pressure is low', 'Temperature is low and Pressure is high', 'Temperature is low and Pressure is low', '3', 'Gases behave most like ideal gases when “Temperature is high and Pressure is low” and the converse of that is the third choice ( Low Temperature, High Pressure). Remember that gases behave most like ideal gases in “summer-time”. Summer is when the temperature is high and the pressure on us is low.'],
+				['We have a balloon, which we’ll blow up with air. Afterwards, this balloon will be heated up in a hot water bath. Will this balloon shrink/swell in size, and does this show an inverse/direct relationship between temperature and volume?', 'Shrink, Inverse', 'Shrink, Direct', 'Swell, Inverse', 'Swell, Direct', '4', 'By Charles’ Law, we know that the relationship between temperature and volume is direct. If the balloon is heated up, the greater kinetic energy in the gas molecules will cause for the balloon to expand. Thus, the balloon will swell and this shows a direct relationship.'],
+				['At standard pressure, I have some 224 liters of Hydrogen gas at Standard Temperature and Pressure. How many Hydrogen atoms will I have?', '5 moles', '10 moles', '20 moles', '100 moles', '3', 'To begin with, note that Hydrogen is a diatomic element. Then, we have the constant of 22.4 L/mol for all gases at STP. With some dimensional analysis, we determine that we have 10 moles of H2 gas. However, the problem asks not for the number of molecules but for the number of the H2 atoms, of which there are 2(10) = 20.'],
+				['Why do we utilize Kelvin and not Celsius when doing gas law computations?', 'Celsius is outdated', 'Celsius has larger units, which becomes cumbersome.', 'Celsius is always higher than Kelvin, which can disrupt calculations.', 'Celsius can create negative temperatures easily, which can disrupt calculations.', '4', 'Celsius is easily negative, which can completely throw off the many gases calculations that we perform.'],
+				['I put equal masses of Oxygen and Chlorine gas into a container. Assuming no reaction takes place, what is true about this system?', 'The Chlorine molecules have greater kinetic energy than the Oxygen molecules.', 'Since Chlorine molecules are larger, they will slowly react with the Oxygen molecules.', 'There are 22.4 moles of Oxygen and Chlorine respectively.', 'There is an unequal amount of chlorine and oxygen molecules.', '4', 'Since the molar masses of the two gases are different, there will inevitably be a different number of molecules.'],
+				['At constant volume, the pressure on a gas will increases when the temperature goes from 20 degrees Celsius to …', '273K', '283K', '293K', '303K', '4', 'The answer is 303K. For the pressure to increase, the temperature must increase. The relationship between pressure and temperature is direct. The only answer choice where the temperature increases is 303K.'],
+				['Which gas has the greatest density at STP?', 'H2', 'O2', 'F2', 'Cl2', '4', 'Since the molar mass of Cl2 is the greatest, it will have the greatest density, as the volume of all of these gases at STP is simply 22.4 L/mol.'],
+				['10g of hydrogen and chlorine gas each are put together in a container to react. What will happen? H2 + Cl2 → 2HCl.', '20g of HCl will form.', 'Less than 20g of HCl will form.', 'More than 20g of HCl will form.', 'Hydrogen and Chlorine are incapable of reacting together.', '2', 'There is not enough Chlorine gas to react with the amount of Hydrogen gas due to the fact that the molar mass of Chlorine is much greater than the molar mass of Hydrogen. Thus, the answer is “Less than 20g of HCl will form.”'],
+				['Which of the following constants is the mass of 15.0 L of NH3 at 27° C and 900. mm Hg closest to?', '10.9', '11.1', '12.3', '13.5', '3', 'This problem is a clear PV = nRT question. Isolate n and then input the correct numbers. Afterwards, find the molar mass of NH3 and then multiply n by the molar mass of NH3 to get a final answer. 12.3 should be the closest.'],
+				['Which instrument measures air pressure?', 'Thermometer', 'Anemometer', 'Ruler', 'Barometer', '4', 'A barometer measures air pressure.'],
+				['We have a series of 4 rooms. Each of the rooms is slightly larger than the one before it, and all of them are filled with the same gas. A chemistry student, Hector, claims that since gas expands to fit it’s container, each of the rooms will have identical moles of gas. His friend, Jonas, claims that by Avogadro’s Law, each of the rooms will have different moles of gas. Who is correct, and what is the law that correctly justifies their answer?', 'Hector, Charles’ Law', 'Hector, Gay Lussac’s Law', 'Jonas, Avogadro’s Law', 'Jonas, Charles’ Law', '3', 'By the definition of Avogadro’s Law, Jonas is correct. Hector should start reviewing for his upcoming test. :)'],
+				['A certain gas has a volume of 400.0 mL at 272K and 300.0 torr. What would the volume of the gas be at 271K and 600.0 torr of pressure?', '401.5', '401.', '803.0', '803', '4', 'Using the Combined Gas Law, we will get an answer of approximately 802.95. However, this problem requires 3 significant figures, meaning that our wanted answer is 803.'],
+				['At STP, how many moles of water would result after the complete combustion of 6.00 liters of butane (C4H10)?', '0.268', '1.34', '2.68', '13.4', '2', 'The chemical formula for the combustion of butane is 2C4H10 + 13O2 → 8CO2 + 10H2O. To begin with, we know that there are (6.00 L)(1 mole/22.4L) = 0.268 moles of butane. Then, the mole ratio from butane to water is 5, so (0.268 moles)(5) = 1.34.']
+			];
+
+			let unit8Questions = [	
+				['A sample of ice (H2O) is heated from its current temperature at 273K. During this process, the kinetic energy of the particles…', 'Increases', 'Decreases', 'Remains Constant', 'None of the answer choices is correct', '3', 'Note that the kinetic energy of the particles stays constant when this is happening. Instead, the potential energy of the particles slowly increases.'],
+				['Which of the following statements is true?', 'The heat of vaporization is less than the heat of fusion.', 'The heat of vaporization is equal to the heat of fusion.', 'The heat of vaporization is greater than the heat of fusion.', 'The heat of vaporization is equal for all substances.', '3', 'The heat of vaporization is always greater than the heat of fusion due to the fact that it takes more energy to completely alter the positions of the molecules as seen in the process of vaporization. This is in contrast to fusion, where the molecules positions are disrupted significantly less.'],
+				['Which of the following is an explanation for why some liquids require greater times to evaporate?', 'The darker color of a liquid causes longer evaporation times.', 'Some liquids are “heavier” with larger molecules, meaning it is more difficult for them to evaporate.', 'Some liquids have stronger intermolecular forces than others.', 'Some liquids have stronger intramolecular forces than others.', '3', 'The stronger intermolecular forces between some liquids cause for a longer evaporation time.'],
+				['A certain substance has a high melting point, and conducts electricity in aqueous solution. Which type of solid is it?', 'Covalent Molecular', 'Covalent Network', 'Metallic', 'Ionic', '4', 'The answer is 4. Ionic substances have high melting points and dissolve into ions in aqueous solutions, allowing them to conduct electricity.'],
+				['What type of bonding is present in diamond?', 'Ionic', 'Metallic', 'Hydrogen', 'Covalent', '4', 'Covalent bonding is clearly the answer, as diamond is made of carbon. Diamond, a covalent network solids, relies on the strength of its carbon bonds for its properties.'],
+				['Utilize the Chemistry Reference Tables for this question. At 313K, propanone will boil at ', '47 kPa', '57 kPa', '67 kPa', '77 kPa', '2', 'Note that liquids boil when the vapor pressure is equal to the air pressure. Utilizing Table H, we find our answer of 57 kPa.'],
+				['Based on your knowledge of chemistry, order CH4, CH4CH2OH, and CH3CH2CH3 in order of increasing viscosity. ', 'CH4, CH4CH2OH, CH3CH2CH3', 'CH4CH2OH, CH3CH2CH3, CH4', 'CH4, CH3CH2CH3, CH4CH2OH', 'All of them have the same viscosity.', '3', 'Viscosity is directly related to the strength of the intermolecular forces. CH4 and CH3CH2CH3 only have London Dispersion forces to hold them together but CH4CH2OH is held together with hydrogen bonding. CH3CH2CH3 has stronger intermolecular forces than CH4 due to the fact that it is a larger molecule. '],
+				['In vapor pressure equilibrium, which two rates becomes equal?', 'Condensation and vaporization', 'Condensation and boiling', 'Condensation and sublimation', 'Sublimation and boiling', '1', 'This is a definition that one should know.'],
+				['A certain substance that is currently a solid is heated for an infinitely long time at a rate of 200 Joules per minute. It’s heat of fusion is 1200 joules per minute. How long will this substance “plateau” at its melting point?', '3 minutes', '4 minutes', '5 minutes', '6 minutes', '4', 'At this rate, it will take 1200/200 = 6 minutes.'],
+				['The heat of vaporization of water is 2260 Joules per gram. How many Joules will it take to vaporize 2 moles of water?', '4520 Joules', '81360 Joules', '8136 Joules', '2260 Joules', '2', 'The answer is 81360 Joules. To begin with, we must figure out the molar mass of water, which happens to be 18.00 grams per mole. Thus, we have 36 grams of water. Then, 36(2260) = 81360 Joules.'],
+				['Which of the following compounds has the lowest vapor pressure?', 'CH4', 'C2H6', 'C4H10', 'C5H12', '4', 'Vapor pressure is inversely related to IMF strength, which is directly related to molecule size. Thus, to find the compound with the lowest vapor pressure, we should be looking for the largest molecule, which happens to be C5H12.'],
+				['Which of the following changes is endothermic?', 'Vaporization', 'Deposition', 'Condensation', 'Freezing', '1', 'The only one that requires heat is vaporization, which requires heat to change phases from liquid to gas.'],
+				['What is the definition of an amorphous solid?', 'A solid with strong Intermolecular Forces.', 'A solid with weak Intermolecular Forces.', 'A solid with regular crystalline structure.', 'A solid with irregular structure.', '4', 'This is just a definition.'],
+				['Butane (C4H10) has a heat of vaporization of 21.0 kJ/mole. How much heat would it take to evaporate 116 grams of Butane?', '21.0 kJ', '42.0 kJ', '84.0 kJ', '210. kJ', '2', 'The molar mass of butane is 58 grams per mole. This means that we have 2 moles of butane. Then, 2 moles(21.0kJ/mole) = 42.0 kJ, which is our second answer choice.'],
+				['How much heat will it require to melt 100. grams of water at 273K and then proceed to heat it to 313K?', '40.1 kJ', '50.1 kJ', '60.1 kJ', '70.1 kJ', '2', 'We need to utilize two formulas here. The first is q = mass(Heat of Fusion). Utilizing the fact that the heat of fusion of water is 334 Joules/g means that our total heat will be 334(100) = 33.4 kJ. Then, we must utilize the second formula, or q = mass (specific heat of water) (change in temperature). Putting in our values, we have that q= 100. g (4.18J/(g times Kelvin) (40K). This ends up being around 16.7 kJ. 33.4 kJ + 16.7 = 50.1 kJ, which is our final answer.']
+			];
+	
+			let unit9Questions = [[]];
+
+			let unit10Questions = [[]];
+			
+			let unit11Questions = [[]];
+
+			let unit12Questions = [[]];
+			
 			function changeQuestion() {
-				if(questionNumber == 16) {
+				if(questionNumber == 15) {
 					modal.style.display = "none";
 					return;
 				}
@@ -182,17 +300,39 @@
 				questionNumber += 1;
 
 				//displaying question
-				if (unitSelected == 3) {
+				if (unitSelected == 1) {
+					var questionInfo = unit1Questions[questionNumber - 1];
+				} else if (unitSelected == 2) {
+					var questionInfo = unit2Questions[questionNumber - 1];
+				} else if (unitSelected == 3) {
 					var questionInfo = unit3Questions[questionNumber - 1];
-					console.log(questionInfo);
-					var questionText = questionInfo[0];
-					var answerChoice1 = questionInfo[1];
-					var answerChoice2 = questionInfo[2];
-					var answerChoice3 = questionInfo[3];
-					var answerChoice4 = questionInfo[4];
-					correctAnswer = parseInt(questionInfo[5]);
-					explanation = questionInfo[6];
+				} else if (unitSelected == 4) {
+					var questionInfo = unit4Questions[questionNumber - 1];
+				} else if (unitSelected == 5) {
+					var questionInfo = unit5Questions[questionNumber - 1];
+				} else if (unitSelected == 6) {
+					var questionInfo = unit6Questions[questionNumber - 1];
+				} else if (unitSelected == 7) {
+					var questionInfo = unit7Questions[questionNumber - 1];
+				} else if (unitSelected == 8) {
+					var questionInfo = unit8Questions[questionNumber - 1];
+				} else if (unitSelected == 9) {
+					var questionInfo = unit9Questions[questionNumber - 1];
+				} else if (unitSelected == 10) {
+					var questionInfo = unit10Questions[questionNumber - 1];
+				} else if (unitSelected == 11) {
+					var questionInfo = unit11Questions[questionNumber - 1];
+				} else if (unitSelected == 12) {
+					var questionInfo = unit12Questions[questionNumber - 1];
 				}
+
+				var questionText = questionInfo[0];
+				var answerChoice1 = questionInfo[1];
+				var answerChoice2 = questionInfo[2];
+				var answerChoice3 = questionInfo[3];
+				var answerChoice4 = questionInfo[4];
+				correctAnswer = parseInt(questionInfo[5]);
+				explanation = questionInfo[6];
 
 				//console.log("correct answer beg: " + correctAnswer);
 
@@ -308,6 +448,7 @@
 				//change vars
 				topic = "Basics";
 				questionNumber = 0;
+				unitSelected = 1;
 
 				changeQuestion();
 				modal.style.display = "block";
@@ -318,6 +459,7 @@
 				//change vars
 				topic = "The Atom";
 				questionNumber = 0;
+				unitSelected = 2;
 
 				changeQuestion();
 				modal.style.display = "block";
@@ -339,6 +481,7 @@
 				//change vars
 				topic = "Formulas and Reactions";
 				questionNumber = 0;
+				unitSelected = 4;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -349,6 +492,7 @@
 				//change vars
 				topic = "Chemical Bonding";
 				questionNumber = 0;
+				unitSelected = 5;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -359,6 +503,7 @@
 				//change vars
 				topic = "The Mole and Stoichimetry";
 				questionNumber = 0;
+				unitSelected = 6;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -369,6 +514,7 @@
 				//change vars
 				topic = "Gases";
 				questionNumber = 0;
+				unitSelected = 7;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -379,6 +525,7 @@
 				//change vars
 				topic = "Solids and Liquids";
 				questionNumber = 0;
+				unitSelected = 8;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -389,6 +536,7 @@
 				//change vars
 				topic = "Solutions";
 				questionNumber = 0;
+				unitSelected = 9;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -399,6 +547,7 @@
 				//change vars
 				topic = "Reactoin Dynamics";
 				questionNumber = 0;
+				unitSelected = 10;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -409,6 +558,7 @@
 				//change vars
 				topic = "Redox";
 				questionNumber = 0;
+				unitSelected = 11;
 				
 				changeQuestion();
 				modal.style.display = "block";
@@ -419,6 +569,7 @@
 				//change vars
 				topic = "Acids and Bases";
 				questionNumber = 0;
+				unitSelected = 12;
 				
 				changeQuestion();
 				modal.style.display = "block";

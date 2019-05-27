@@ -1,0 +1,105 @@
+Which of the following is not an assumption of the Kinetic Molecular Theory of Gases?
+Gas particles are always moving.
+Collisions between gas particles are elastic.
+Gases have no forces of attractions.
+Gases are close together.
+4
+Gases are actually very far apart relative to their size, which is another assumption of the Kinetic Molecular Theory of Gases. 
+Gases have …
+Definite Shape and Definite Volume
+Definite Shape and Indefinite Volume
+Indefinite Shape and Definite Volume
+Indefinite Shape and Indefinite Volume
+4
+Imagine a gas in a room. It’s particles will simply occupy the space of that room, having no definite shape or volume. The gas will continuously expand.
+Gases behave least like the “ideal gas” when ...
+Temperature is high and Pressure is high
+Temperature is high and Pressure is low
+Temperature is low and Pressure is high
+Temperature is low and Pressure is low
+3
+Gases behave most like ideal gases when “Temperature is high and Pressure is low” and the converse of that is the third choice ( Low Temperature, High Pressure). Remember that gases behave most like ideal gases in “summer-time”. Summer is when the temperature is high and the pressure on us is low.
+We have a balloon, which we’ll blow up with air. Afterwards, this balloon will be heated up in a hot water bath. Will this balloon shrink/swell in size, and does this show an inverse/direct relationship between temperature and volume?
+Shrink, Inverse
+Shrink, Direct
+Swell, Inverse
+Swell, Direct
+4
+By Charles’ Law, we know that the relationship between temperature and volume is direct. If the balloon is heated up, the greater kinetic energy in the gas molecules will cause for the balloon to expand. Thus, the balloon will swell and this shows a direct relationship.
+At standard pressure, I have some 224 liters of Hydrogen gas at Standard Temperature and Pressure. How many Hydrogen atoms will I have?
+5 moles
+10 moles
+20 moles
+100 moles
+3
+To begin with, note that Hydrogen is a diatomic element. Then, we have the constant of 22.4 L/mol for all gases at STP. With some dimensional analysis, we determine that we have 10 moles of H2 gas. However, the problem asks not for the number of molecules but for the number of the H2 atoms, of which there are 2(10) = 20.
+Why do we utilize Kelvin and not Celsius when doing gas law computations?
+Celsius is outdated
+Celsius has larger units, which becomes cumbersome.
+Celsius is always higher than Kelvin, which can disrupt calculations.
+Celsius can create negative temperatures easily, which can disrupt calculations.
+4
+Celsius is easily negative, which can completely throw off the many gases calculations that we perform.
+I put equal masses of Oxygen and Chlorine gas into a container. Assuming no reaction takes place, what is true about this system?
+The Chlorine molecules have greater kinetic energy than the Oxygen molecules.
+Since Chlorine molecules are larger, they will slowly react with the Oxygen molecules.
+There are 22.4 moles of Oxygen and Chlorine respectively.
+There is an unequal amount of chlorine and oxygen molecules.
+4
+Since the molar masses of the two gases are different, there will inevitably be a different number of molecules.
+At constant volume, the pressure on a gas will increases when the temperature goes from 20 degrees Celsius to …
+273K
+283K
+293K
+303K
+4
+The answer is 303K. For the pressure to increase, the temperature must increase. The relationship between pressure and temperature is direct. The only answer choice where the temperature increases is 303K.
+Which gas has the greatest density at STP?
+H2
+O2
+F2
+Cl2
+4
+Since the molar mass of Cl2 is the greatest, it will have the greatest density, as the volume of all of these gases at STP is simply 22.4 L/mol.
+10g of hydrogen and chlorine gas each are put together in a container to react. What will happen? H2 + Cl2 → 2HCl.
+20g of HCl will form.
+Less than 20g of HCl will form.
+More than 20g of HCl will form.
+Hydrogen and Chlorine are incapable of reacting together.
+2
+There is not enough Chlorine gas to react with the amount of Hydrogen gas due to the fact that the molar mass of Chlorine is much greater than the molar mass of Hydrogen. Thus, the answer is “Less than 20g of HCl will form.”
+Which of the following constants is the mass of 15.0 L of NH3 at 27° C and 900. mm Hg closest to?
+10.9
+11.1
+12.3
+13.5
+3
+This problem is a clear PV = nRT question. Isolate n and then input the correct numbers. Afterwards, find the molar mass of NH3 and then multiply n by the molar mass of NH3 to get a final answer. 12.3 should be the closest.
+Which instrument measures air pressure?
+Thermometer
+Anemometer
+Ruler
+Barometer
+4
+A barometer measures air pressure.
+We have a series of 4 rooms. Each of the rooms is slightly larger than the one before it, and all of them are filled with the same gas. A chemistry student, Hector, claims that since gas expands to fit it’s container, each of the rooms will have identical moles of gas. His friend, Jonas, claims that by Avogadro’s Law, each of the rooms will have different moles of gas. Who is correct, and what is the law that correctly justifies their answer?
+Hector, Charles’ Law
+Hector, Gay Lussac’s Law
+Jonas, Avogadro’s Law
+Jonas, Charles’ Law
+3
+By the definition of Avogadro’s Law, Jonas is correct. Hector should start reviewing for his upcoming test. :)
+A certain gas has a volume of 400.0 mL at 272K and 300.0 torr. What would the volume of the gas be at 271K and 600.0 torr of pressure?
+401.5
+401.
+803.0
+803
+4
+Using the Combined Gas Law, we will get an answer of approximately 802.95. However, this problem requires 3 significant figures, meaning that our wanted answer is 803.
+At STP, how many moles of water would result after the complete combustion of 6.00 liters of butane (C4H10)?
+0.268
+1.34
+2.68
+13.4
+2
+The chemical formula for the combustion of butane is 2C4H10 + 13O2 → 8CO2 + 10H2O. To begin with, we know that there are (6.00 L)(1 mole/22.4L) = 0.268 moles of butane. Then, the mole ratio from butane to water is 5, so (0.268 moles)(5) = 1.34.

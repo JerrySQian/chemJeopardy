@@ -1,0 +1,105 @@
+Polar Molecules have … and are …
+Nonpolar bonds, Symmetrical
+Nonpolar bonds, Asymmetrical
+Polar bonds, Symmetrical
+Polar bonds, Asymmetrical
+4
+Symmetry kills polarity! The prerequisites for having a polar molecule is that they have polar bonds and that they are asymmetrical.
+Due to the “sea of electrons”, metals are 
+Able to Conduct Electricity
+Ductile
+Malleable
+Lustrous
+1
+The sea of electrons creates metals that are able to conduct electricity. The mobile electrons allow the metal to have a current pass through it.
+Ionic bonds are between nonmetals and metals. Covalent bonds are between nonmetals. However, the difference in _____ being greater than 1.7 causes a molecule to be considered ionic.
+Electronegativity
+Atomic Radius
+First Ionization Energy
+Melting Point
+1
+This is a definition question. Electronegativity difference determines the attraction for electrons between two different substances. If one substance has a significantly greater attraction for electrons, this will result in the transfer of electrons, or ionic bonding. The cutoff for this phenomenon happens to be an electronegativity difference of 1.7.
+Which of the following is not a property of ionic compounds?
+Solubility in water
+Forming lattice structures
+Conduct electricity in aqueous solutions
+Malleable
+4
+The final property is a property of metals, not ionic compounds.
+Which of the following substances has the greatest ionic character?
+NaF
+LiS2
+CO
+F2
+1
+The electronegativity difference is greatest between Na and F, meaning that NaF has the greatest ionic character. Ionic character is the tendency to transfer electrons, which is displayed most prominently in substances with very high electronegativity differences. This means that substances with ionic bonding should have the greatest ionic character.
+Draw the Lewis Dot structure for CO2. How many lone pairs are on the carbon atom?
+0
+1
+2
+3
+1
+The correct answer is 0. In carbon dioxide, there are two double bonds to each oxygen to make up for the lack of electrons. If this explanation didn’t help, search up “Carbon Dioxide Lewis Dot Structure”.
+Draw the Lewis Dot Structure for NH3. What shape is this structure?
+Tetrahedron
+Linear
+Bent
+Trigonal Pyramidal
+4
+The Lewis Dot Structure for NH3 has a lone pair on the nitrogen, which makes it trigonal pyramidal, rather than a tetrahedron. It is not trigonal planar due to its lone pair. 
+A type of Intermolecular Forces is called Hydrogen Bonding. Which of the following elements would not be able to perform Hydrogen Bonding?
+Nitrogen 
+Oxygen
+Carbon
+Fluorine
+3
+This is something that one must simply memorize. Hydrogen Bonding only applies to NOF. So remember NOF!
+Compared to Intramolecular Forces, Intermolecular Forces are comparatively …
+Weak
+Strong
+Similar
+None of the above answers are correct.
+1
+Intramolecular forces are comparatively much stronger than Intermolecular forces due to the fact that the sharing/transfer of electrons between individual ions/atoms in intramolecular forces. However, in intermolecular forces, items are held together simply with partial charges, which is comparatively much weaker.
+What type of bond is formed between the oxygen and hydrogen atoms in water?
+Metallic
+Nonpolar Covalent
+Ionic
+Polar Covalent
+4
+The electronegativity difference is 1.2, putting it in the range to be a polar covalent bond. 
+Chemical bonds occur due to … 
+Repulsion between the protons of two nuclei
+Attractions for the electrons by two nuclei
+Repulsion from the electrons of two different atoms
+Attractions from the protons of two different atoms.
+2
+Chemical bonds are all about the attraction of electrons by different nuclei. The attraction for electrons creates the sharing/transfer that lead to the chemical bonds.
+Which of the following types of substances do NOT have high melting points?
+Ionic 
+Metallic
+Covalent
+Other substances
+3
+Covalent substances tend to have very low melting points as a result of their weaker intermolecular forces. Weaker intermolecular forces leads to a substantially weaker substance, creating low melting and boiling points.
+Which compounds are electrolytes?
+Polar Covalent
+Nonpolar Covalent
+Metallic
+Ionic
+4
+Many ionic compounds dissolve into ions in aqueous solution, allowing them to conduct electricity. This is the hallmark of electrolytes. 
+There are five compounds: H2, CO2, CH4, NCl3, CO.  Which of them are nonpolar?
+H2, CO2, CH4, NCl3
+H2, CO2, CH4,
+CO2, CH4
+H2
+2
+Out of these 5 compounds, three of these are nonpolar. H2 is a nonpolar molecule because it’s electronegativity difference is 0. Then, CO2 is linear and CH4 is tetrahedral, both of which are symmetrical shapes. Due to this fact, CO2 and CH4 are also nonpolar. Thus, we have three nonpolar compounds: H2, CO2, CH4.
+What is the maximum number of bonds carbon can make?
+1
+2
+3
+4
+4
+Carbon has 4 electrons, and needs four more electrons to make the stable octet. Therefore, to reach the desired 8 electrons, 4 more electrons are needed, or 4 single bonds. An example of this is CH4.

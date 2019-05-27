@@ -1,0 +1,105 @@
+Which represents the greatest mass of polonium (Po)?
+1 atom of Po
+1 gram of Po
+1 mole of Po
+200 grams
+3
+1 mole of Po has a molar mass of 209 grams/mole. 1 atom of Po has insignificant mass, and 209 grams is greater than 1 gram and 200 grams.
+A compound with an empirical formula of NH3 has a molecular mass of 85.0 amu. What is this compound’s molecular formula?
+NH3
+N2H6
+N4H12
+N5H15
+4
+The mass of NH3 is 14.0 + 3(1.0) = 17.0. 85 is “five-fold” of NH3, so multiplying by 5 results in N5H15.
+The coefficients in a balanced chemical equation can represent 
+Grams and moles, but not molecules
+Grams and molecules, but not moles
+Moles and molecules, but not grams
+Grams, moles, or molecules
+3
+The coefficients represent moles and molecules. A balanced chemical equation is a ratio in the number of molecules, and since a mole is a unit for molecules, this applies for moles as well. However, this does not apply for grams, as different substances can have different molar masses, causing the coefficients not to be able to be substituted for grams.
+What is the percent mass of hydrogen in CH4O?
+6.09%
+12.5%
+25%
+3.3%
+2
+The molar mass of CH4O is 12.0 + 4(1.0) + 16.0 = 32.0 g/mol. The total mass of hydrogen is 4(1.0). Using the formula for % composition, we get 4.0 / 32.0 * 100 = 12.5%.
+Given the mass of a crucible and lid is 25.0g, mass of crucible, lid, and hydrated salt is 27.4g, and mass of crucible, lid, and anhydrous salt is 26.0g, what is the percent by mass of water in this hydrate.
+1.4%
+5.8%
+10.4%
+58.3%
+4
+We know the mass of water will be 27.4g - 26.0g = 1.4g. The mass of the hydrate is 27.4g - 25.0g = 2.4g. So the percent water is 1.4g / 2.4g * 100 = 58.3%.
+There exists  a plastic polymer that is widely used around the world. This plastic polymer can have chains of many different lengths. One chain length is C9440H7552O3776. What is its empirical formula?
+C5H4O2
+C6H5O3
+C6H4O2
+C10H8O3
+1
+To find the empirical formula of C9440H7552O3776, we want to find the greatest common divisor of 9440, 7552, and 3776. This happens to be 1888. Dividing each number by 1888, we get, 5, 4, 2, with respect to C, H, and O. So our empirical formula is C5H4O2.
+Lead can be found in anglesite. The formula for anglesite is PbCl2. Determine the mass in grams of lead in 2kg of anglesite.
+1480
+1490
+1500
+1510
+2
+The molar mass of anglesite is 207.2g + 2(35.5g) = 278.2g/mol. This would mean there are 2000g / 278.2g/mol = 7.189 moles of anglesite in 2kg. Multiplying 7.189moles * 207.2g/mol = 1490 grams. You could also find percent composition of lead, then multiply by 2000; both result in the same answer.
+93.00 grams of SnO2 contains how many moles of molecules?
+0.062 moles
+0.314 moles
+0.617 moles
+0.690 moles
+3
+SnO2 has a molar mass of 150.7 g/mol. Diving 93.00g / 150.7g/mol = 0.617 moles. 
+Why is the mole useful?
+The mole provides a link between the number of particles and the number of grams
+It is cute and cuddly, providing comfort to non-moles
+The mole allows us to convert chemical equations into numero-chemical equations
+The mole is Avogadro's number, or 6.02 * 10^23
+1
+Moles allow us to convert number of particles to number of grams, because we know the number of grams of 1 mole of most all elements. Don’t be fooled by answer choice d)! This is a true statement, but it doesn’t explain why the mole is useful.
+Are balanced equations necessary to do stoichiometry? Why or why not?
+Balanced equations are necessary because mass is conserved in every reaction
+Balanced equations are necessary, because mass is not conserved in every reaction
+Balanced equations aren’t necessary because mass is conserved in every reaction
+Balanced equations aren’t necessary because mass is not conserved in every reaction
+1
+Balanced equations are necessary for almost everything we do in chemistry. Mass (along with other things, such as energy) are always conserved. Also, because mass is conserved, the equations needs to be balanced so mass can stay the same on both sides of the equation.
+What is NOT the theoretical yield?
+The calculated amount of product that will form during a reaction
+The maximum amount of products that could be formed
+The minimum amount of products that could be formed
+The value usually compared with actual yield to calculate percent yield.
+3
+Theoretical yield is the yield that one calculates through stoichiometry. This is the maximum amount of yield produced, because the calculations are done assuming perfect conditions, and nothing is lost. Theoretical yield is used in the % yield formula. This leaves c), as the what theoretical yield couldn’t be.
+When doing stoichiometry, … is/are directly created from coefficients in correctly balanced equations.
+Mass ratios
+Mole differences
+Mass differences
+Mole ratios
+4
+The coefficients in balanced equations represent that ratio of moles, this allowing one to create mole ratios.
+Name this hydrate: Na2CO3&#183;10H20
+Sodium carbonate decahydrate
+Sodium carbonate hydrate
+Sodium carbonate tenhydrate
+Decahydrate sodium carbonate
+1
+To figure this out, we can first look at Na2CO3. This is sodium carbonate (look on table E). Having water means we need a hydrate, but also a deca- prefix due to the fact that there are 10 H2O’s present.
+Which is an empirical formula
+C2H2
+C2H4
+CH
+C4H8
+3
+Empirical formulas have lowest terms. Only CH has lowest terms subscripts. C2H2 could be reduced to CH. Likewise, C2H4 and C4H8 could be reduced to CH2.
+Which of the following is NOT always true?
+The actual yield in a chemical reaction will be equal to or less than the theoretical yield
+The coefficients in a balanced chemical equation can be used to form mole ratios relating reactants to products.
+The convert from moles to grams, we divide by the molar mass.
+Mass is conserved in a chemical reaction
+3
+To convert from moles to grams, we multiply by the molar mass.
