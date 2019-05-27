@@ -1,0 +1,105 @@
+How many of the following are physical properties? Color, mass, texture, rusting, flammability, shape
+3
+4
+5
+6
+2
+Color, mass, texture, and shape are the physical properties, making 3 of the following physical properties.
+What is precision and accuracy?
+Precision of how close the measured value is to the true value, and accuracy is reproducibility
+Precision is reproducibility, and accuracy is how close the measured value is to the true value
+Precision and accuracy are the same thing
+None of the above
+2
+Precision is defined to be how reproducible the measurement is, and accuracy is how close the measured value is to the true value. These are definitions.
+What is tolerance?
+The number of significant figures
+The difference between your measurement and the true measurement
+How often your measurement lies in the correct range of values 
+The uncertainty in the last digit
+4
+Tolerance is the uncertainty in the last digit, which is why many times, you will is 50.5 +/- 0.1 cm.
+What is another term for solutions?
+Homogeneous compounds
+Heterogeneous compound
+Homogenous mixture
+Heterogeneous compound
+3
+A homogeneous mixture is the equivalent of a solution.
+Which of the following is/are the separation process(es) that is/are used to separate a liquid from a liquid?
+Filtration only
+Distillation only
+Chromatography only
+Distillation and chromatography only
+4
+Distillation separates liquids by difference of boiling points, and chromatography separates liquids by difference in intermolecular attraction.
+We know that air is a mixture and not a compound because
+Its composition can vary
+Its components are chemically combined
+It can be compressed into a smaller volume
+It can be heated to a higher temperature.
+1
+Mixtures can have varying amounts of compounds and elements inside. Some air may contain more methane than air in other places, but it is still air.
+What is the SI measurement?
+The SI measurement is the single-ionization measurement.
+The SI measurement is the standard for all measurements
+The SI measurement is the international system of units
+The SI measurement is the Italian system of measurement
+3
+The SI measurement is the international system of units. SI is abbreviated form of the French word, système international d'unités.
+How many significant figures does 0.0000101 have?
+1
+2
+3
+4
+3
+0.000101 has 3 significant figures. The 3 figures are 1, 0, and 1. 
+Which of the following is not a correct alternate form of the density equation?
+d = m / v
+v * d = m
+v * m = d
+1 / d = v / m
+3
+The most common form of density of d = m / v. Multiplying both sides by v yields v * d = m. Taking the reciprocal yields 1 / d = v / m.
+Element A and element B become chemically bonded together to form substance C. Substance C must be 
+A compound
+An element
+A mixture
+A solution
+1
+When two elements bond together, they form compounds. AB can not be an element, and AB is not a mixture, and thus cannot be a solution either.
+Determine which relationship is incorrect.
+10^-6 liters = 1 microliter
+10^3 milligrams = 1 gram
+1 meter = 10^2 centimeters
+1 gram = 10^3 kilograms
+4
+1 gram is 10^-3 kilograms, or 1 kilogram is 10^3 grams.
+How many steps are in the scientific method?
+6
+7
+8
+Infinite
+4
+There are infinite questions in the scientific method. The scientific method is a circle, and one discovery will lead to another, thus having infinite steps.
+Which of the following is false?
+Qualitative data are subjective
+Qualitative data are objective
+Quantitative data contains numbers
+All data need units
+2
+Qualitative data is subjective, as it is perceived through the senses. Thus, it cannot be objective. Quantitative data is data that is numerical, and there should never just be numbers on the page.
+Which of the following about plasma is false?
+Plasma is ionized gas
+Plasma is a decent conductor of electricity
+Plasma has indefinite shape, but definite volume
+Plasma is affected by magnetic fields
+3
+Plasma has indefinite shape and volume. Plasma is defined to be an ionized gas, and because of this, can conduct electricity (not as good as a wire though). Plasma is indeed affected by magnetic fields; the particles will follow the path of the magnetic field “lines”.
+How many significant figures should be in this computation? Convert the volume of a room into fings, given the dimensions are 5.36 fang x 9.004 fang x 100. fang, and 1000 fang are in a fing.
+1
+2
+3
+4
+3
+The result should have 3 significant figures, because the least specific measurement has 3 significant figures. Be wary about 1000 fang = 1 fing. This is an exact number, and should not limit the number of significant figures.

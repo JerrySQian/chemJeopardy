@@ -1,0 +1,105 @@
+When a reaction occurs, particles collide. In this collision, the particles must have … for the reaction to occur. 
+Insufficient Kinetic Energy and Improper Orientation
+Insufficient Kinetic Energy and Proper Orientation
+Sufficient Kinetic Energy and Improper Orientation
+Sufficient Kinetic Energy and Proper Orientation
+4
+Particles colliding with sufficient KE and proper orientation is what creates an effective collision, which is necessary for a reaction to occur. 
+Which of the following is not a factor that creates a faster rate of a chemical reaction?
+Higher Surface Area
+Higher Temperature
+Presence of Catalysts
+Lower Concentration
+4
+Lower Concentration will cause a chemical reaction to proceed at a lower rate. Since there are less possible collisions, the number of collisions that occur will be significantly less.
+Two identical reactions are run at two different temperatures. Reaction 1 is run at 273K. Reaction 2 is run at 313K. Which of the two reactions will likely run at a faster rate?
+Reaction 1
+Reaction 2
+Both of the reactions will run at the same rate.
+Neither of the reactions will run at all.
+2
+Reaction 2 will likely run faster due to the higher temperature. Higher temperature causes more effective collisions due to the higher kinetic energy. More effective collisions will result in a greater reaction rate.
+How do catalysts speed up the rate of reaction?
+They increase the kinetic energy of the reaction.
+They cause for a greater chance at proper orientation.
+They create an alternate pathway with a lower activation energy.
+They do not help speed up reaction rate.
+3
+Catalysts provide an alternate route for the reaction to occur; this route has lower activation energy. A lower activation energy means the rate of the reaction will increase.
+In which of the following circumstances is entropy decreasing?
+Ice melting.
+Water decomposing to make H2 and O2
+Salt dissolving.
+The creation of a salt from a metal and a nonmetal.
+4
+Synthesis reactions mean that entropy is decreasing.
+The world of natural chemical systems always tends towards ...
+Low Energy and Low Entropy
+Low Energy and High Entropy
+High Energy and Low Entropy
+High Energy and High Entropy
+2
+This is the basis of Gibbs Free Energy. Natural chemical systems always tend towards low energy and high entropy. I find that a good analogy is thinking about how your life operates. If you don’t do anything, which is our natural tendency, then we will have low energy and high entropy(disorder) in our lives. 
+Which of the following conditions is not met at chemical equilibrium?
+The forward reaction rate is constant
+The reverse reaction rate is constant
+The concentration of both the reactants/products is constant.
+The amount of reactant is equal to the amount of product.
+4
+At chemical equilibrium, the forward/reverse reaction rate reach equilibrium. This means that the concentration of the reactants/products does not change. However, the amount of reactant and product is not necessarily equal.
+Which of the following is not a possible “stress” on an equilibrium system?
+Concentration
+Pressure Change for Solids/Liquids
+Temperature
+Pressure Change for Gases
+2
+A pressure change for solids/liquids doesn’t stress an equilibrium system.
+When a catalyst is added, does the equilibrium position of a reaction change?
+The equilibrium position is unchanged.
+The equilibrium position is higher.
+The equilibrium position is lower.
+A catalyst eliminates the existence of an equilibrium position.
+1
+While the catalyst changes the activated complex, it does not affect the equilibrium position whatsoever. It causes for a faster reaction, yet doesn’t change the start/end.
+In an exothermic reaction, which of the following statements is NOT true?
+The potential energy of the reactants is greater than the potential energy of the products.
+Energy is released.
+The value of the heat of reaction is positive.
+The absolute value of the activated complex is greater than the absolute value of the heat of reaction.
+3
+The value of the heat of reaction is negative in an endothermic reaction. This is because the potential energy of the reactants is greater than the potential energy of the products. This causes for a net heat loss.
+In Le Chatelier’s Principle, if one adds heat to an exothermic reaction, how does the reaction shift?
+The reaction shifts to the left.
+The reaction shifts to the right.
+The reaction shows no shift.
+Heat is not a stress on a chemical reaction.
+1
+Since this is an exothermic reaction, the heat constant is on the right. If one adds heat to the reaction, the reaction will shift to the left to use up excess heat and cool the reaction down.
+We have two chemical reactions. One is a precipitate forming with the combination of two aqueous solutions, and the second is the combustion of propane with all of the products/reactants in the gaseous phase. Which of the following changes would cause the second reaction to speed up, but not the first?
+Higher Temperatures
+Higher Pressures
+Greater Concentration
+A catalyst
+2
+Pressure can only affect gaseous reactions, an important fact to know. The other three stresses will affect both reactions.
+We have two reactions. In these reactions, is the entropy increasing or decreasing? 1: The vaporization of water. 2: The decomposition of Carbon Dioxide into its elements. Reaction 1 is … and Reaction 2 is … 
+Increasing, Increasing
+Increasing, Decreasing
+Decreasing, Increasing
+Decreasing, Increasing
+1
+Both of these reactions are increasing. The first is a phase change from liquid to gas. The second is a decomposition reaction. In both of these, disorder is increasing, meaning that the entropy is clearly increasing. Note that liquid is a more ordered phase than gas due to the fact that liquid has a more defined structure.
+There exists a chemical reaction with the following constraints. The potential energy of the reactants of a product is 84kJ. The potential energy of the products is 320kJ. Is this reaction endothermic or exothermic, and what is the heat of reaction?
+Endothermic, + 236kJ
+Endothermic, - 236kJ
+Exothermic, + 236kJ
+Exothermic, - 236kJ
+1
+Since the PE(products) is greater than the PE(reactants), this reaction is endothermic. Since 320-84=236, the heat of reaction is + 236kJ.
+Chemical equilibrium is best described as a … energy state.
+Low
+High
+Medium
+It cannot be described.
+1
+Since little is changing, it is best described as a low energy state.
