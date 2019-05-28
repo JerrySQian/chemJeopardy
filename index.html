@@ -128,6 +128,23 @@
 	  		</div>
 		</div>
 		<script type = "text/javascript">  
+			var pageHeader = document.getElementById("pageHeader")
+			setInterval(change, 5000);
+			var counter = 0;
+			var text = ["by Jerry and Jinho", "Chem Review"];
+
+			function change() {
+			    pageHeader.classList.add('hide');
+			    setTimeout(function () {
+			        pageHeader.innerHTML = text[counter];
+			        pageHeader.classList.remove('hide');
+			        counter++;
+			        if (counter >= text.length) {
+			            counter = 0;
+			        }
+			    }, 1000);
+			}
+
 			var modal = document.getElementById('myModal');
 			var closeBtn = document.querySelector(".close");
 
@@ -436,7 +453,7 @@
 				var answerChoice3 = questionInfo[3];
 				var answerChoice4 = questionInfo[4];
 				correctAnswer = parseInt(questionInfo[5]);
-				explanation = questionInfo[6];
+				explanation = "Explanation: " + questionInfo[6];
 
 				//console.log("correct answer beg: " + correctAnswer);
 
@@ -462,6 +479,8 @@
 					//console.log("correct answer");
 					correctLabel.innerHTML = "Correct!";
 					correctLabel.style.display = "block";
+					correctLabel.style.fontSize = "25px";
+					correctLabel.style.fontWeight = "bold";
 					explanationSection.style.display = "none";
 
 					correct = true;
@@ -471,17 +490,19 @@
 					correctLabel.innerHTML = "Incorrect.";
 					explanationSection.innerHTML = explanation;
 					correctLabel.style.display = "block";
+					correctLabel.style.fontSize = "25px";
+					correctLabel.style.fontWeight = "bold";
 					explanationSection.style.display = "block";
 				}
 
 				if (correctAnswer == 1) {
-					a1.style.backgroundColor = "green";
+					a1.style.backgroundColor = "#07bc0a";
 				} else if (correctAnswer == 2) {
-					a2.style.backgroundColor = "green";
+					a2.style.backgroundColor = "#07bc0a";
 				} else if (correctAnswer == 3) {
-					a3.style.backgroundColor = "green";
+					a3.style.backgroundColor = "#07bc0a";
 				} else {
-					a4.style.backgroundColor = "green";
+					a4.style.backgroundColor = "#07bc0a";
 				}
 
 				if (!correct) {
@@ -497,12 +518,6 @@
 				}
 			}
 
-
-
-
-
-
-
 			function selectedA() {
 				answerChoice = 1;
 				//console.log("selected a");
@@ -511,7 +526,6 @@
 					grade();
 				}
 			}
-
 
 			function selectedB() {
 				answerChoice = 2;
@@ -522,7 +536,6 @@
 				}
 			}
 
-
 			function selectedC() {
 				answerChoice = 3;
 				//console.log("selected c");
@@ -532,7 +545,6 @@
 				}
 			}
 
-
 			function selectedD() {
 				answerChoice = 4;
 				//console.log("selected d");
@@ -541,12 +553,6 @@
 					grade();
 				}
 			}
-
-
-
-
-
-
 
 			function modalOpenBasics() { 
 				//change vars
