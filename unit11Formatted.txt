@@ -1,5 +1,4 @@
-[	
-	['The oxidation number of Hydrogen is usually +1. What is the exception?', 'When Hydrogen bonds with Halogens.', 'When Hydrogen bonds with transition metals.', 'When Hydrogen bonds with Oxygen.', 'When Hydrogen bonds with very strong metals(example: Sodium).', '4', 'This is a well-known exception.'],
+[	['The oxidation number of Hydrogen is usually +1. What is the exception?', 'When Hydrogen bonds with Halogens.', 'When Hydrogen bonds with transition metals.', 'When Hydrogen bonds with Oxygen.', 'When Hydrogen bonds with very strong metals(example: Sodium).', '4', 'This is a well-known exception.'],
 	['Which of the following is most easily oxidized?', 'I2', 'Br2', 'Cl2', 'F2', '1', 'For nonmetals on Table J, the higher up you go, the substances are more easily reduced, not oxidized. Thus, the one lowest on the list is the most easily oxidized, which is I2.'],
 	['In a reaction with Ag and KCl, what is the oxidizing agent?', 'Ag', 'K', 'Cl', 'None of them are the oxidizing agent.', '1', 'Remember that the oxidizing agent helps oxidation by reducing. Metals lower on Table J on the Reference Tables will reduce, meaning that Ag, which is the lowest on Table J in this reaction, will be the one to reduce.'],
 	['What is the sum of the oxidation numbers in all compounds?', '0', '-1', '+1', '10', '1', 'The sum of all oxidation numbers in any compound is always 0.'],
@@ -13,5 +12,5 @@
 	['In a reaction between Ba and Al, Ba oxidizes. In a reaction between Al and Ag, Al oxidizes. Based on this information, in a reaction between Ba and Ag, which will reduce?', 'Ba will reduce', 'Ag will reduce', 'Neither will reduce, both will oxidize.', 'A reaction will not take place.', '2', 'Make a miniature version of Table J in one’s head. If Ba has a greater ability to oxidize than Al, which has a greater ability to oxidize than Ag, then this means that Ba will oxidize in a reaction with Ag. Thus, Ag will reduce.'],
 	['What is NOT an application of an electrolytic cell?', 'Electroplating Metals', 'Recharging a Battery', 'Separating Pure metals.', 'Making chemical energy through a redox reaction.', '4', 'A voltaic cell makes chemical energy through a redox reaction, not an electrolytic cell.'],
 	['In a voltaic cell, does the anode/cathode lose mass?', 'Anode', 'Cathode', 'Neither', 'Both', '1', 'The anode loses mass as it undergoes oxidation to change from a metal to an ion in solution.'],
-	['What is the oxidation number of Cr in Cr2O7(-2)?', '+7', '+6', '+5', '+4', '2', 'Let the oxidation number be x. Then, we know that 2x + 7(-2) = -2. Solving, we get that x = + 6.']
-];
+	['What is the oxidation number of Cr in Cr2O7(-2)?', '+7', '+6', '+5', '+4', '2', 'Let the oxidation number be x. Then, we know that 2x + 7(-2) = -2. Solving, we get that x = + 6.'],
+]

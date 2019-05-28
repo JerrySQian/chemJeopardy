@@ -39,6 +39,7 @@ td {
 	text-align: center;
 	height: 40vh;
 	font-size: 3vh;
+	font-weight: bold;
 }
 
 .headerContainer {
@@ -58,7 +59,7 @@ td {
 }
 
 #actualImg {
-	width: 98%;
+	width: 80%;
 	height: auto;
 }
 
