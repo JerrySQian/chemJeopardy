@@ -1,0 +1,105 @@
+Acids and bases react to form… 
+Water only
+Salt only
+Water and salt
+None of the above
+3
+Acids and bases always form a water and salt, due to the H+ and OH- bonding to get water, and the other two ions forming a salt (a special type of double replacement).
+In the following unbalanced reaction:H2PO4- + H2O → H3PO4 + OH-, what is the bronsted-lowry acid?
+H2PO4-
+H2O
+H3PO4
+OH-
+2
+The acid is the proton/H+ donor. The H2O donates a proton to the H2PO4, making H3PO4 and OH-.
+When the pH of a solution is changed from 2 to 5, the concentration of hydroxide ions
+Decreases by a factor of 3
+Increases by a factor of 3
+Increases by a factor of 1000
+Decreases by a factor of 1000
+3
+A pH change from 2 to 5, means that the solution is becoming more basic. But since the pH scale is a logarithmic scale, the concentration of hydroxide ions will increase by 10^3 = 1000.
+Which indicator is good for differing very strong acids and bases?
+Litmus
+Methyl orange
+Thymol blue
+Bromocresol green
+1
+Litmus has a pH range for color change of 4.5 to 8.3. Strong acids and bases are quite high or low, so litmus is great for differing the two.
+According to one acid-base theory, a base is…
+H+ acceptor
+H+ donor
+A molecule that makes H+
+A molecule that makes OH-
+1
+Bases are H+ acceptors. Acids are H+ donors. No molecule just makes H+, or OH-.
+What differs strong and weak acids?
+Strong acids have higher pH than weak acids
+Strong acids react better with bases
+Strong acids are easier to find and make than weak acids 
+Strong acids completely ionize, while weak acids only partially.
+4
+Strong acids completely ionize/dissociate. This is a defining trait of a strong acid. Weak acids, when partially, dissociated, dissociate very little.
+Which of the following classifies HCl
+Weak acid
+Monohydroxy base
+Monoprotic acid
+Diprotic acid
+3
+HCl is a strong acid. Since there is only one H+ when dissociated, it is monoprotic.
+Which is true of bases?
+Bases are rough
+Bases are “soapy” in feeling
+Bases are sour
+Bases are between 1-7 on the pH scale.
+2
+Bases are bitter, smooth (slippery or feel like soap), react to form water and salt, conduct electric currents, and cause indicators to change colors.
+A substance has a pH of 3, what is it’s [OH(-)]?
+10^(-3)
+10^(-11)
+3
+11
+2
+If the pH is 3, then the pOH is 11, meaning that the [OH(-1)] = 10^(-11).
+Which of the following is not an Arrhenius base?
+LiOH
+Mg(OH)2
+KOH
+NH3
+4
+NH3 is not an Arrhenius base due to the fact that it does not have the hydroxide ion. Thus, while NH3 is basic, it is not an Arrhenius base.
+What are the products of the neutralization reaction shown below? Mg(OH)2 + HCl → ??
+ MgH2, ClOH
+MgH, ClOH
+MgCl, H2O
+MgCl2, H20
+4
+Remember, acids and base makes water and salt! Afterwards, make sure your compounds are properly balanced, and you will get MgCl2 and H20.
+Which of the following is not an electrolyte?
+Salts
+Acids
+Bases
+Hydrocarbons
+4
+An electrolyte is defined as something that becomes ions in solution, conducting an electrical current. Acids, bases, and salts all have this ability. However, since hydrocarbons are molecular, they will not dissolve in solution.
+In a titration, there is 100mL of of 0.500M HCl and 200mL of a certain concentration Mg(OH)2. What is the concentration of the Mg(OH)2?
+0.125M
+0.250M
+0.500M
+1.00M
+1
+For a titration, the formula is nMV = nMV. If we let the left hand side be the side for acids and the right hand side the side for bases, we get the following equation. 100mL(0.500M) = 2(200mL)M. Solving for M, we get 0.125M.
+A substance has [OH] = 0.3. What is it’s pH?
+11.5
+12.5
+13.5
+14.5
+3
+The pOH of this substance is approximately 0.5. Since 14 - 0.5 = 13.5, then the pH is approximately 13.5.
+A substance has a pOH of 13.9. What is it’s [H]?
+0.4
+0.6
+0.8
+1.0
+3
+If the pOH is 13.9, then the pH is 0.1. 10^(-0.1) is closest to 0.8.

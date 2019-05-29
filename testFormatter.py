@@ -1,6 +1,6 @@
-f = open("unit9.txt", "r")
+f = open("unit12.txt", "r")
 l = f.readlines()
-writeFile = open("unit9Formatted.txt", "w")
+writeFile = open("unit12Formatted.txt", "w")
 
 writeFile.write("[")
 
