@@ -200,3 +200,19 @@ td {
   	text-decoration: none;
 	cursor: pointer;
 }
+
+.moreStuff {
+	margin-top: 100vh;
+	width: 100%;
+	text-align: left;
+}
+
+.moreStuff > p {
+	font-size: 3vh;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.bottomSpace {
+	height: 3vh;
+}
